@@ -1,5 +1,9 @@
 # Farming Simulator
 
+## Run on Web Browser
+
+https://zeta-samuel.github.io/Farming-Simulator/
+
 ## Run on desktop
 
 ```powershell
@@ -18,6 +22,10 @@ modern browser. Pygbag packages the game's map, tilesets, and animation assets
 from this project folder. The launcher removes a stale BrowserFS script from
 pygbag's default page template that otherwise causes the browser to remain on
 "Loading, please wait ...".
+
+## Features
+
+Player animation along with collision detection and a cool shop where you can buy and sell crops.
 
 ## Shop
 
