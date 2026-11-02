@@ -1,5 +1,14 @@
 # Farming Simulator
 
+## What is the game about?
+Currently the game is a 2D isometric game where you can move and access the shop. Later on you will also be able to grow crops.
+
+I made this game because making an Isometric game was a dream of mine and games like HayDay really caught my attention. 
+
+## Run on Web Browser
+
+https://zeta-samuel.github.io/Farming-Simulator/
+
 ## Run on desktop
 
 ```powershell
@@ -18,6 +27,10 @@ modern browser. Pygbag packages the game's map, tilesets, and animation assets
 from this project folder. The launcher removes a stale BrowserFS script from
 pygbag's default page template that otherwise causes the browser to remain on
 "Loading, please wait ...".
+
+## Features
+
+Player animation along with collision detection and a cool shop where you can buy and sell crops.
 
 ## Shop
 
