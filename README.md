@@ -1,5 +1,10 @@
 # Farming Simulator
 
+## What is the game about?
+Currently the game is a 2D isometric game where you can move and access the shop. Later on you will also be able to grow crops.
+
+I made this game because making an Isometric game was a dream of mine and games like HayDay really caught my attention. 
+
 ## Run on Web Browser
 
 https://zeta-samuel.github.io/Farming-Simulator/
