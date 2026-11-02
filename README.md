@@ -5,6 +5,9 @@ Currently the game is a 2D isometric game where you can move and access the shop
 
 I made this game because making an Isometric game was a dream of mine and games like HayDay really caught my attention. 
 
+## screenshot of the game:
+![Farm game photo](images/farm.png)
+
 ## Run on Web Browser
 
 https://zeta-samuel.github.io/Farming-Simulator/
